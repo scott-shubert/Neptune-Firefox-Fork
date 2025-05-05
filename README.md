@@ -2,7 +2,7 @@
 
 **Instructions:**
 
-- This theme is compatible with the latest release of Firefox and works on macOS, with updated dev tools font colors.
+- This theme is compatible with the latest release of Firefox and works on Windows. Adapted to have a more Windows like look, with updated dev tools font colors.
 
 <img src="info/preview.png" alt="Preview Image" width="800px">
 
